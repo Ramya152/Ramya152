@@ -5,9 +5,8 @@ I'm Ramya and am currently doing my masters in data science. I'm interested in t
 
 
 🔦 Skills:
-HTML CSS Python SAAS JavaScript Git App Development
-Data Analysis Data Visualisation R 
-Data clustering/Classification techniques PowerBI
+
+
 
 Languages and Tools:
-java matlab mysql pandas python pytorch scikit_learn seaborn tensorflow
+
